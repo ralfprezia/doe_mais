@@ -4,7 +4,14 @@
     background-position: 50vw bottom;
     background-repeat: no-repeat;
     box-shadow: white;
-    border-top-left-radius: 30px;
+
+    border-top-left-radius: 305px;
+    border-top-right-radius: 2035px;
+
+    border-bottom-right-radius: 335px;
+    border-bottom-left-radius: 1335px;
+    
+    
     
     
 
@@ -84,6 +91,7 @@
     width: 100%;
     max-width: 360px;
     height: 72px;
+   
 
     border-radius: 8px;
     display: flex;
@@ -111,6 +119,7 @@
 
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
+    
 
     background-color: rgba(0, 0, 0, 0.08);
 
